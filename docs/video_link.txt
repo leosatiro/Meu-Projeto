@@ -1,0 +1,2 @@
+Vídeo (não listado): https://youtu.be/Wj9kZk0QmWg
+Demonstra: Python (menu + exportação) e R (estatísticas + clima).
